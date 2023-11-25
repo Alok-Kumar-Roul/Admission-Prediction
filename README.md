@@ -1,5 +1,4 @@
 # Admission-Prediction
-![Admission](https://github.com/alok12345-roul/Admission-Prediction/assets/79954408/a78f0abf-e9ee-4168-9916-18531cfc13f3)
 
 ## Project Overview :
 
